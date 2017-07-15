@@ -85,27 +85,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Assets\Scripts\LoadSceneOnClick.cs" />
-    <Compile Include="Assets\Lobby\Scripts\DraggablePanel.cs" />
-    <Compile Include="Assets\Lobby\Scripts\EventSystemChecker.cs" />
-    <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyCountdownPanel.cs" />
-    <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyHook.cs" />
-    <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyInfoPanel.cs" />
-    <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyMainMenu.cs" />
-    <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyManager.cs" />
-    <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyPlayer.cs" />
-    <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyPlayerList.cs" />
-    <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyServerEntry.cs" />
-    <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyServerList.cs" />
-    <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyTopPanel.cs" />
-    <Compile Include="Assets\Scripts\SpinningCube.cs" />
+    <Compile Include="Assets\Assets\Scripts\MovePanel.cs" />
     <Compile Include="Assets\SimpleDragAndDrop\Scripts\DragAndDropCell.cs" />
     <Compile Include="Assets\SimpleDragAndDrop\Scripts\DragAndDropItem.cs" />
     <Compile Include="Assets\SimpleDragAndDrop\Scripts\DummyControlUnit.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Assets\Fonts\OpenSans\License!.txt" />
-    <None Include="Assets\Lobby\Documentation.txt" />
-    <None Include="Assets\Lobby\Instruction.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

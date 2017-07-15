@@ -1,0 +1,41 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8476
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\samme\Documents\GitHub\Unity\Tutorial stuff\Main Menu - Copy\menutest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\samme\Documents\GitHub\Unity\Tutorial stuff\Main Menu - Copy\menutest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\samme\Documents\GitHub\Unity\Tutorial stuff\Main Menu - Copy\menutest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\samme\Documents\GitHub\Unity\Tutorial stuff\Main Menu - Copy\menutest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\samme\Documents\GitHub\Unity\Tutorial stuff\Main Menu - Copy\menutest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\samme\Documents\GitHub\Unity\Tutorial stuff\Main Menu - Copy\menutest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\samme\Documents\GitHub\Unity\Tutorial stuff\Main Menu - Copy\menutest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\samme\Documents\GitHub\Unity\Tutorial stuff\Main Menu - Copy\menutest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.090 seconds
+Platform assembly: C:\Users\samme\Documents\GitHub\Unity\Tutorial stuff\Main Menu - Copy\menutest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\samme\Documents\GitHub\Unity\Tutorial stuff\Main Menu - Copy\menutest_Data\Managed\System.dll (this message is harmless)
+desktop: 3840x2160 60Hz; virtual: 3840x2160 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.949698 ms
+Setting up 4 worker threads for Enlighten.
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+  Thread -> id: 2260 -> priority: 1 
+  Thread -> id: 1664 -> priority: 1 
+  Thread -> id: 3e68 -> priority: 1 
+  Thread -> id: 3550 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.685750 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 464.
+Total: 0.327647 ms (FindLiveObjects: 0.022895 ms CreateObjectMapping: 0.015000 ms MarkObjects: 0.282250 ms  DeleteObjects: 0.007105 ms)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
