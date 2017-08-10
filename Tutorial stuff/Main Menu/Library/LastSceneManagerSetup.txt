@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Assets/Scenes/Character Sheet/Character Tab.unity
+- path: Assets/Assets/Scenes/Player Scene Alt.unity
   isLoaded: 1
   isActive: 1
