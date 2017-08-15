@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Assets/Scenes/Player Scene Alt.unity
+- path: Assets/Assets/Scenes/Create Character.unity
   isLoaded: 1
   isActive: 1
